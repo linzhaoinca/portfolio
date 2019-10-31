@@ -1,5 +1,3 @@
-n large industrial campuses, shopping malls or hospitals Big Data Projects
-
 Project 1 - Customer Brand Preference (Classification & Multiple Regression & Market Basket Analysis)
 Datasets:
 1. 10,000 completed surveys
