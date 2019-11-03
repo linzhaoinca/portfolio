@@ -50,16 +50,16 @@ https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%2
 ## Project 2 - Power Consumption Analysis and Forecasting (Time Series)
 
 - ### Datasets: UCI achieve stored and secured on AWS
-  	  1. Over two million measurements of electric power consumption in one household with a one-minute sampling 
-	  rate over the period of almost 4 years.
-          2. Data was gathered in a house located in Sceaux, France
+      1. Over two million measurements of electric power consumption in one household with a one-minute sampling 
+      rate over the period of almost 4 years.
+      2. Data was gathered in a house located in Sceaux, France
 
 - ### Project Summary:
-	  1. Perform an in-depth analysis of the power consumption via data visualization and 
-	  time series regression modeling
-          2. Work with seasonal forecasting by subsetting the data into meaningful time periods
-	  3. Inspire Smart Home owners, developers and utility company to better understand and 
-	  control of their power usage
+      1. Perform an in-depth analysis of the power consumption via data visualization and 
+      time series regression modeling
+      2. Work with seasonal forecasting by subsetting the data into meaningful time periods
+      3. Inspire Smart Home owners, developers and utility company to better understand and 
+      control of their power usage
 
 [Domain Research and Exploratory Data Analysis.pptx]
 (https://github.com/linzhaoinca/portfolio/blob/master/Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
@@ -71,13 +71,12 @@ https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%2
 
 ## Project 3 - Indoor Wifi Locationing (Classification)
 - ### Datasets:
-	  1. 19937 observations and 590 attributes
+      1. 19937 observations and 590 attributes
       2. Attributes: 520 WAP Detectors and 9 position-related attributes
 
 - ### Project Summary:
-	  1. Help people to navigate a complex, unfamiliar interior space without getting lost
-
-	  2. How to enhance the signal for existing WAP detectors with Beacon Technology
+      1. Help people to navigate a complex, unfamiliar interior space without getting lost
+      2. How to enhance the signal for existing WAP detectors with Beacon Technology
 
 [WIFI Locationing (Classification) in R]
 https://github.com/linzhaoinca/portfolio/blob/master/WIFI%20Locationing.R)
@@ -87,15 +86,14 @@ https://github.com/linzhaoinca/portfolio/blob/master/WIFI%20Locationing.R)
 
 ## Project 4 - Develop Models to Predict Sentiment (Classification)
 - ### Datasets:
-	  1. 12974 observations for Galaxy, 12912 observations for iPhone and a Large matrix of 22460 observations
+      1. 12974 observations for Galaxy, 12912 observations for iPhone and a Large matrix of 22460 observations
 	  which collected from Common Crawl
-          2. Attributes: 59 attributes which represent sentiment reviews for each iPhone and Samsung Galaxy dataset
+      2. Attributes: 59 attributes which represent sentiment reviews for each iPhone and Samsung Galaxy dataset
 
 - ### Project Summary:
-	  1. Investigate and build predictive models that understand the patterns in the both iPhone and Galaxy
+      1. Investigate and build predictive models that understand the patterns in the both iPhone and Galaxy
 	  and then apply the best winning model to the Large Matrix file to complete the analysis of overall
       sentiment toward both iPhone and Samsung Galaxy
-
       2. Compare the performance of the classifiers in "out of the box modeling with different
       preprocessed dataset combinations and also try to improve the performance metrics with
       feature selection and feature engineering
