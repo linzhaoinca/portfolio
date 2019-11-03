@@ -40,6 +40,24 @@
 
 [Lesson Learned Report for Predicting Customer Preference.docx](https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx)
 
+
+Below is using relative link:
+[Customer Brand Preferences (Classification) in R](Customer%20Brand%20Preferences.R)
+
+[Customer Brand Preferences Report](Customer%20Brand%20Preferences%20Report.docx)
+
+[newproductforecast (Multiple Regression) in R](newproductforecast.R)
+
+[Multiple Regression Informal Report](Multiple%20Regression%20Informal%20Report.docx)
+
+[ElectronidexTransactions(Market Basket Analysis) in R](ElectronidexTransactions.R)
+
+[Market Basket Analysis for Electronidex](Market%20Basket%20Analysis%20for%20Electronidex.docx)
+
+[Customer Preference Final Report (Teaminsights-MASTER.pptx)](C2T5-TeamInsights-MASTER.pptx)
+
+[Lesson Learned Report for Predicting Customer Preference.docx](Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx)
+
 ## Project 2 - Power Consumption Analysis and Forecasting (Time Series)
 
 - ### Datasets: UCI achieve stored and secured on AWS
