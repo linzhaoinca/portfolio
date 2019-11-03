@@ -24,24 +24,6 @@
       Furthermore, it can be used to help the board of directors to better understand the clientele that
       company currently intend to acquire and see if it would be an optimal acquisition
 
-[Customer Brand Preferences (Classification) in R](https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences.R)
-
-[Customer Brand Preferences Report](https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences%20Report.docx)
-
-[newproductforecast (Multiple Regression) in R](https://github.com/linzhaoinca/portfolio/blob/master/newproductforecast.R)
-
-[Multiple Regression Informal Report](https://github.com/linzhaoinca/portfolio/blob/master/Multiple%20Regression%20Informal%20Report.docx)
-
-[ElectronidexTransactions(Market Basket Analysis) in R](https://github.com/linzhaoinca/portfolio/blob/master/ElectronidexTransactions.R)
-
-[Market Basket Analysis for Electronidex](https://github.com/linzhaoinca/portfolio/blob/master/Market%20Basket%20Analysis%20for%20Electronidex.docx)
-
-[Customer Preference Final Report (Teaminsights-MASTER.pptx)](https://github.com/linzhaoinca/portfolio/blob/master/C2T5-TeamInsights-MASTER.pptx)
-
-[Lesson Learned Report for Predicting Customer Preference.docx](https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx)
-
-
-Below is using relative link:
 [Customer Brand Preferences (Classification) in R](Customer%20Brand%20Preferences.R)
 
 [Customer Brand Preferences Report](Customer%20Brand%20Preferences%20Report.docx)
@@ -72,13 +54,11 @@ Below is using relative link:
       3. Inspire Smart Home owners, developers and utility company to better understand and 
       control of their power usage
 
-[Domain Research and Exploratory Data Analysis.pptx]
-(https://github.com/linzhaoinca/portfolio/blob/master/Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
+[Domain Research and Exploratory Data Analysis.pptx](Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
 
-[household_power_consumption (Time Series) in R] (https://github.com/linzhaoinca/portfolio/blob/master/household_power_consumption.R)
+[household_power_consumption (Time Series) in R](household_power_consumption.R)
 
-[Visualize and Analyze Energy Data.pptx]
-(https://github.com/linzhaoinca/portfolio/blob/master/Visualize%20and%20Analyze%20Energy%20Data.pptx)
+[Visualize and Analyze Energy Data.pptx](Visualize%20and%20Analyze%20Energy%20Data.pptx)
 
 ## Project 3 - Indoor Wifi Locationing (Classification)
 - ### Datasets:
@@ -89,11 +69,9 @@ Below is using relative link:
       1. Help people to navigate a complex, unfamiliar interior space without getting lost
       2. How to enhance the signal for existing WAP detectors with Beacon Technology
 
-[WIFI Locationing (Classification) in R]
-https://github.com/linzhaoinca/portfolio/blob/master/WIFI%20Locationing.R)
+[WIFI Locationing (Classification) in R](WIFI%20Locationing.R)
 
-[Evaluate Techniques for Wifi Locationing.docx]
-(https://github.com/linzhaoinca/portfolio/blob/master/Evaluate%20Techniques%20for%20Wifi%20Locationing.docx)
+[Evaluate Techniques for Wifi Locationing.docx](Evaluate%20Techniques%20for%20Wifi%20Locationing.docx)
 
 ## Project 4 - Develop Models to Predict Sentiment (Classification)
 - ### Datasets:
@@ -109,13 +87,10 @@ https://github.com/linzhaoinca/portfolio/blob/master/WIFI%20Locationing.R)
       preprocessed dataset combinations and also try to improve the performance metrics with
       feature selection and feature engineering
 
- [iPhone Vs. Samsung (Classification) in R]
-(https://github.com/linzhaoinca/portfolio/blob/master/Iphone%20Vs.%20Samsung.R)
+ [iPhone Vs. Samsung (Classification) in R](Iphone%20Vs.%20Samsung.R)
 
-[Sentiment Analysis Project Report.docx]
-(https://github.com/linzhaoinca/portfolio/blob/master/Sentiment%20Analysis%20Project%20Report.docx)
+[Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 
-[Learner Report- Sentiment Analysis.docx]
-https://github.com/linzhaoinca/portfolio/blob/master/Learner%20Report-%20Sentiment%20Analysis.docx)
+[Learner Report- Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 
 ## Project 5 - Python Projects (Coming Soon...)
