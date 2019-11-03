@@ -24,28 +24,21 @@
       Furthermore, it can be used to help the board of directors to better understand the clientele that
       company currently intend to acquire and see if it would be an optimal acquisition
 
-[Customer Brand Preferences (Classification) in R] (https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences.R)
+[Customer Brand Preferences (Classification) in R](https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences.R)
 
-[Customer Brand Preferences Report]
-(https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences%20Report.docx)
+[Customer Brand Preferences Report](https://github.com/linzhaoinca/portfolio/blob/master/Customer%20Brand%20Preferences%20Report.docx)
 
-[newproductforecast (Multiple Regression) in R]
-(https://github.com/linzhaoinca/portfolio/blob/master/newproductforecast.R)
+[newproductforecast (Multiple Regression) in R](https://github.com/linzhaoinca/portfolio/blob/master/newproductforecast.R)
 
-[Multiple Regression Informal Report]
-(https://github.com/linzhaoinca/portfolio/blob/master/Multiple%20Regression%20Informal%20Report.docx)
+[Multiple Regression Informal Report](https://github.com/linzhaoinca/portfolio/blob/master/Multiple%20Regression%20Informal%20Report.docx)
 
-[ElectronidexTransactions(Market Basket Analysis) in R]
-(https://github.com/linzhaoinca/portfolio/blob/master/ElectronidexTransactions.R)
+[ElectronidexTransactions(Market Basket Analysis) in R](https://github.com/linzhaoinca/portfolio/blob/master/ElectronidexTransactions.R)
 
-[Market Basket Analysis for Electronidex]
-(https://github.com/linzhaoinca/portfolio/blob/master/Market%20Basket%20Analysis%20for%20Electronidex.docx)
+[Market Basket Analysis for Electronidex](https://github.com/linzhaoinca/portfolio/blob/master/Market%20Basket%20Analysis%20for%20Electronidex.docx)
 
-[Customer Preference Final Report (Teaminsights-MASTER.pptx)]
-(https://github.com/linzhaoinca/portfolio/blob/master/C2T5-TeamInsights-MASTER.pptx)
+[Customer Preference Final Report (Teaminsights-MASTER.pptx)](https://github.com/linzhaoinca/portfolio/blob/master/C2T5-TeamInsights-MASTER.pptx)
 
-[Lesson Learned Report for Predicting Customer Preference.docx]
-https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx
+[Lesson Learned Report for Predicting Customer Preference.docx](https://github.com/linzhaoinca/portfolio/blob/master/Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx)
 
 ## Project 2 - Power Consumption Analysis and Forecasting (Time Series)
 
