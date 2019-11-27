@@ -24,7 +24,7 @@
       Furthermore, it can be used to help the board of directors to better understand the clientele that
       company currently intend to acquire and see if it would be an optimal acquisition
 
-[Customer Brand Preferences (Classification) in R](Customer%20Brand%20Preferences.R)
+[Customer Brand Preference (Classification)](http://rpubs.com/linlinmao/brandpreference)
 
 [Customer Brand Preferences Report](Customer%20Brand%20Preferences%20Report.docx)
 
