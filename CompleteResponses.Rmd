@@ -1,0 +1,163 @@
+# Customer Brand Preference-Acer or Sony
+
+## Overview
+
+#### Background Info
+
+We are asked to make predictions and provide suggestion to the sales team of customers' preference (Acer Vs. Sony). We need to build our models based on CompleteResponses and apply them to Incompleted surveys.
+
+#### Dataset Info
+  * 10,000 completed surveys
+  *  5,000 incompleted surveys
+  * Attributes (survey info): Salary, Age, Education Level, Car, Zipcode, Credit, and Computer Brand Preference
+
+## Data Analysis Framework
+#### Preprocessing
+  * We need to convert the data types of education level, car, zipcode and brand from number to factor, so R can process the data as a classification problem.
+  * There are no missing values in this task.
+
+
+```{r results='asis', echo=TRUE, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE)
+library(lattice)
+library(ggplot2)
+```
+
+```{r}
+# Load libraries
+library(readr)
+library(caret)
+library(ggplot2)
+
+# Set seed
+set.seed(998)
+
+# Load the dataset and check the data structure
+CompleteResponses <- read.csv("CompleteResponses.csv")
+
+# Check the data structure
+str(CompleteResponses)
+
+# Check for the general info
+summary(CompleteResponses)
+```
+
+```{r}
+# Check for the sum of missing values
+sum(is.na(CompleteResponses))
+
+# Change below attributes to factor
+CompleteResponses$elevel <- as.factor(CompleteResponses$elevel)
+CompleteResponses$car <- as.factor(CompleteResponses$car)
+CompleteResponses$zipcode <- as.factor(CompleteResponses$zipcode)
+CompleteResponses$brand <- as.factor(CompleteResponses$brand)
+```
+
+#### Model Building
+  * We have tried C5.0 and Random Forest Model (manually tuned with 5 different mtry values) using Caret package.
+  * We used 10 folds cross validation to avoid overfitting
+  * We evaluated the performace for each model we built
+  
+```{r}
+# Define an 75%/25% train/test split of the dataset
+inTraining <- createDataPartition(CompleteResponses$brand, p = .75, list = FALSE)
+training <- CompleteResponses[inTraining,]
+testing <- CompleteResponses[-inTraining,]
+```
+
+```{r}
+# 10 fold cross validation 
+fitControl <- trainControl(method = "repeatedcv", number = 10)
+
+# Train C5.0 model with a tuneLenght = 2 
+C50 <- train(brand~., data = training, method = "C5.0", trControl=fitControl, tuneLength = 2)
+
+# Training results
+C50 
+
+# Check for variable importance 
+C50imp <-varImp(C50) 
+C50imp
+```
+
+```{r}
+# Use RandomForest with 10-fold cross validation and manually tune 5 different mtry values
+
+# 10 fold cross validation (RandomForest)
+
+fitControl <- trainControl(method = "repeatedcv", number=10, repeats = 1)
+
+# Dataframe for manual tuning of mtry
+rfGrid <- expand.grid(mtry=c(1,2,3,4,5))
+
+# Note the system time wrapper. system.time()
+# This is used to measure process execution time 
+system.time(rfFitm1 <- train(brand~., data = training, method = "rf", trControl=fitControl, tuneGrid=rfGrid))
+
+# Training results
+rfFitm1  
+
+# Random Variable Importance
+RFimp <-varImp(rfFitm1) 
+RFimp
+```
+
+#### Apply to the Incompleted Survey
+```{r}
+# Load the incomplete dataset and check the data structure
+SurveyIncomplete <- read_csv("SurveyIncomplete.csv")
+
+# Check the data structure
+str(CompleteResponses)
+
+# Check for the general info
+summary(SurveyIncomplete)
+
+# Change below attributes to factor
+SurveyIncomplete$brand <- as.factor(SurveyIncomplete$brand)
+SurveyIncomplete$elevel <- as.factor(SurveyIncomplete$elevel)
+SurveyIncomplete$car <- as.factor(SurveyIncomplete$car)
+SurveyIncomplete$zipcode <- as.factor(SurveyIncomplete$zipcode)
+
+```
+
+```{r}
+# Make a prediction based on C50 (SurveyIncomplete)
+prediction <- predict(C50, SurveyIncomplete)
+summary(prediction)
+
+# Confusion Matrix 
+confusionMatrix(prediction, SurveyIncomplete$brand)
+
+# PostResample (No Ground Truth lead to Low Accuracy & Kappa value )
+postResample(prediction, SurveyIncomplete$brand)
+```
+
+```{r}
+# Make a prediction based on C50 (25% testing from CompleteResponse)
+prediction_testing <- predict(C50, testing)
+summary(prediction_testing)
+
+# Confusion Matrix
+confusionMatrix(prediction_testing, testing$brand)
+
+# PostResample
+postResample(prediction_testing, testing$brand)
+```
+#### Model Evaluation & Prediction
+* C5.0 model has higher Accuracy and Kappa Value than RF model. 
+* We applied C5.0 model to our incompleted survey to make the final prediction
+* People tend to favor Sony more than Acer for the aggregated count 
+
+![Accuracy_Kappa & Preference_Count](Accuracy_Kappa_Preference_Count.png)
+
+
+
+
+
+
+
+
+
+
+
