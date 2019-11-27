@@ -107,4 +107,6 @@
       3. Build predictive models to better classify potential “at risk” customers
 
 [Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb)
-[Credit One Default Predictions(Classification)](Credit One Classification.ipynb) 
+
+[Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) 
+
