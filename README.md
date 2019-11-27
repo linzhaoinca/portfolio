@@ -100,12 +100,11 @@
       Amount of bill statement, Amount of previous payment 
 
 - ### Project Summary:
-      1. An increase in the number of customers who have defaulted on loans they have secured from various partners. Credit One, as
-      their credit scoring service, could risk losing business if the problem is not solved right away. 
-      2. Thoroughly examined the customer demographical factors, and try to identify which attributes influence the most on customer
-      default rates
-      3. Build predictive models to better classify potential “at risk” customers.
+      1. An increase in the number of customers who have defaulted on loans in Credit One, a credit scoring 
+      service, could risk losing business if the problem is not solved right away. 
+      2. Thoroughly examined the customer demographical factors, and try to identify which attributes influence 
+      the most on customer default rates
+      3. Build predictive models to better classify potential “at risk” customers
 
-[Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) 
-
-[Credit One Default Predictions (Classification)](Credit One Classification.ipynb) 
+[Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb)
+[Credit One Default Predictions(Classification)](Credit One Classification.ipynb) 
