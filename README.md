@@ -93,4 +93,19 @@
 
 [Learner Report- Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 
-## Project 5 - Python Projects (Coming Soon...)
+## Project 5 - Python Projects 
+- ### Datasets:
+      1. Contains 30,000 customer default information. 
+      2. Attributes: Amount of the given credit, Gender, Education, Marital Status, Age, History of past payments
+      Amount of bill statement, Amount of previous payment 
+
+- ### Project Summary:
+      1. An increase in the number of customers who have defaulted on loans they have secured from various partners. Credit One, as
+      their credit scoring service, could risk losing business if the problem is not solved right away. 
+      2. Thoroughly examined the customer demographical factors, and try to identify which attributes influence the most on customer
+      default rates
+      3. Build predictive models to better classify potential “at risk” customers.
+
+[Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) 
+
+[Credit One Default Predictions (Classification)](Credit One Classification.ipynb) 
