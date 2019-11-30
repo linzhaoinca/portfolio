@@ -53,10 +53,10 @@
       2. Work with seasonal forecasting by subsetting the data into meaningful time periods
       3. Inspire Smart Home owners, developers and utility company to better understand and 
       control of their power usage
+      
+[Power Consumption Analysis and Forecasting (Time Series 1)](http://rpubs.com/linlinmao/time_series_1)
 
 [Domain Research and Exploratory Data Analysis.pptx](Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
-
-[household_power_consumption (Time Series) in R](household_power_consumption.R)
 
 [Visualize and Analyze Energy Data.pptx](Visualize%20and%20Analyze%20Energy%20Data.pptx)
 
