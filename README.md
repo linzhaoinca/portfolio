@@ -55,6 +55,7 @@
       control of their power usage
       
 [Power Consumption Analysis and Forecasting (Time Series 1)](http://rpubs.com/linlinmao/time_series_1)
+
 [Power Consumption Analysis and Forecasting (Time Series 2)](http://rpubs.com/linlinmao/time_series_2)
 
 [Domain Research and Exploratory Data Analysis.pptx](Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
