@@ -71,7 +71,7 @@
       1. Help people to navigate a complex, unfamiliar interior space without getting lost
       2. How to enhance the signal for existing WAP detectors with Beacon Technology
 
-[WIFI Locationing (Classification) in R](WIFI%20Locationing.R)
+[Indoor WI-FI Locationing (Classification)](http://rpubs.com/linlinmao/indoor_wifi_locationing)
 
 [Evaluate Techniques for Wifi Locationing.docx](Evaluate%20Techniques%20for%20Wifi%20Locationing.docx)
 
