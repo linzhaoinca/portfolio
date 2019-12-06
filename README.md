@@ -88,7 +88,9 @@
       2. Compare the performance of the classifiers in "out of the box modeling with different
       preprocessed dataset combinations and also try to improve the performance metrics with
       feature selection and feature engineering
-
+ 
+ [Sentiment Analysis Part 1, AWS and EMR](http://rpubs.com/linlinmao/sentiment_analysis_1)
+ 
  [iPhone Vs. Samsung (Classification) in R](Iphone%20Vs.%20Samsung.R)
 
 [Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
