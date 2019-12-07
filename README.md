@@ -90,8 +90,7 @@
       feature selection and feature engineering
  
  [Sentiment Analysis Part 1, AWS and EMR](http://rpubs.com/linlinmao/sentiment_analysis_1)
- [test](https://github.com/linzhaoinca/portfolio/blob/master/Mapper.py)
- 
+  
  [iPhone Vs. Samsung (Classification) in R](Iphone%20Vs.%20Samsung.R)
 
 [Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
