@@ -89,13 +89,13 @@
       preprocessed dataset combinations and also try to improve the performance metrics with
       feature selection and feature engineering
  
- [Sentiment Analysis Part 1, AWS and EMR](http://rpubs.com/linlinmao/sentiment_analysis_1)
+ [Smart Phone Sentiment Analysis Part 1, AWS and EMR](http://rpubs.com/linlinmao/sentiment_analysis_1)
   
- [iPhone Vs. Samsung (Classification) in R](Iphone%20Vs.%20Samsung.R)
+ [Smart Phone Sentiment Analysis Part 2, Analysis and Prediction](http://rpubs.com/linlinmao/558226)
 
-[Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
+[Smart Phone Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 
-[Learner Report- Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
+[Learner Report- Smart Phone Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 
 ## Project 5 - Python Projects 
 - ### Datasets:
