@@ -32,7 +32,7 @@
 
 [Multiple Regression Informal Report](Multiple%20Regression%20Informal%20Report.docx)
 
-[ElectronidexTransactions(Market Basket Analysis) in R](ElectronidexTransactions.R)
+[Association Rule Between Products for an Electronic Company（Market Basket Analysis)](http://rpubs.com/linlinmao/559584)
 
 [Market Basket Analysis for Electronidex](Market%20Basket%20Analysis%20for%20Electronidex.docx)
 
