@@ -8,7 +8,7 @@
 - ### Python Projects:
 * [Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) EDA of factors effecting the credit default rates
 * [Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) Prediction on future credit default
-* [Product Profitability Prediction](Product Profitability Prediction.ipynb) Regression, analyze the importance of customer reviews on product profitability
+* [Product Profitability Prediction](Product_Profitability_Prediction.ipynb) Regression, analyze the importance of customer reviews on product profitability
 
 - ### R Projects using RPubs:	
 * [Customer Brand Preference](http://rpubs.com/linlinmao/brandpreference) Classification, prediction on the brand of desktop customers prefer more
@@ -33,7 +33,8 @@
 * [Evaluate Techniques for Wifi Locationing.docx](Evaluate%20Techniques%20for%20Wifi%20Locationing.docx)
 * [Smart Phone Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 * [Learner Report- Smart Phone Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
-
+* [Final Report on Credit One Default Analysis](Final%20Report%20on%20Credit%20One%20Default%20Analysis.docx)
+* [Learner Report for Exploratory Data Analysis.docx](Learner%20Report%20for%20Exploratory%20Data%20Analysis.docx)
 
 
 
