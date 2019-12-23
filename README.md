@@ -20,7 +20,7 @@
 * [Indoor WI-FI Locationing](http://rpubs.com/linlinmao/indoor_wifi_locationing) Classification, determining a person’s physical position in a multi-building indoor space using wifi fingerprinting
 
 - ### R Project using R:
-* [newproductforecast (Multiple Regression)](newproductforecast.R) Regression, analyze the importance of customer reviews on product profitability
+* [New Product Forecast (Multiple Regression)](newproductforecast.R) Regression, analyze the importance of customer reviews on product profitability
 
 - ### Presentations & Reports:
 * [Customer Brand Preferences Report](Customer%20Brand%20Preferences%20Report.docx)
