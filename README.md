@@ -9,7 +9,6 @@
 * [Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) EDA of factors effecting the credit default rates
 * [Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) Prediction on future credit default
 * [Product Profitability Prediction](Product Profitability Prediction.ipynb) Regression, analyze the importance of customer reviews on product profitability
-* [Product Profitability Prediction](Product Profitability Prediction.ipynb) Regression, analyze the importance of customer reviews on product profitability
 
 - ### R Projects using RPubs:	
 * [Customer Brand Preference](http://rpubs.com/linlinmao/brandpreference) Classification, prediction on the brand of desktop customers prefer more
