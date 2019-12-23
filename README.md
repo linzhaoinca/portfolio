@@ -1,17 +1,13 @@
-# Big Data Projects
+# Big Data Projects Portfolio
 
-## Project 1 - Customer Brand Preference (Classification & Multiple Regression & Market Basket Analysis)
+- ### This repository contains of my data science projects, including Classification, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis, AWS, EMR process and a lot of Data Visualization in each project.
+- ### Projects are presented by Jupyter Notebook, RPubs and R.
 
-- ### Datasets:
-      1. 10,000 completed surveys
-          5,000 incompleted surveys
-          Survey Information: Salary, Age, Education Level, Car, Zipcode, Credit, and Computer Brand Preference
-      2. 80 existing products
-         24 new products
-         Product information: Product Type, Product Num, Price, Star & Customer Reviews, Dimension, Margin
-      3. 9835 lines of random electronic transactions in Excel
+- ### Python Projects:
 
-- ### Project Summary:
+[Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) EDA of factors effecting the credit default rates
+
+[Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) Prediction on future credit default
 
 	  1. Use completed surveys to train and build the predictive model, and applied to incompleted surveys
 	  for testing and to make predictions on customers' preferences that are missing from the incompleted surveys
