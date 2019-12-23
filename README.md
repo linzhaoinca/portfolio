@@ -1,13 +1,15 @@
 # Big Data Projects Portfolio
 
-- ### This repository contains of my data science projects, including Classification, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis, AWS, EMR process and a lot of Data Visualization in each project.
-- ### Projects are presented by Jupyter Notebook, RPubs and R.
+* This repository contains of my data science projects, including Classification, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis, AWS, EMR process and a lot of Data Visualization in each project.
+* Projects are presented by Jupyter Notebook, RPubs and R.
 
 - ### Python Projects:
 
 [Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb) EDA of factors effecting the credit default rates
 
 [Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) Prediction on future credit default
+
+[Product Profitability Prediction](Product Profitability Prediction.ipynb) Regression, analyze the importance of customer reviews on product profitability
 
 	  1. Use completed surveys to train and build the predictive model, and applied to incompleted surveys
 	  for testing and to make predictions on customers' preferences that are missing from the incompleted surveys
@@ -93,20 +95,4 @@
 
 [Learner Report- Smart Phone Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 
-## Project 5 - Python Projects 
-- ### Datasets:
-      1. Contains 30,000 customer default information. 
-      2. Attributes: Amount of the given credit, Gender, Education, Marital Status, Age, History of past payments
-      Amount of bill statement, Amount of previous payment 
-
-- ### Project Summary:
-      1. An increase in the number of customers who have defaulted on loans in Credit One, a credit scoring 
-      service, could risk losing business if the problem is not solved right away. 
-      2. Thoroughly examined the customer demographical factors, and try to identify which attributes influence 
-      the most on customer default rates
-      3. Build predictive models to better classify potential “at risk” customers
-
-[Exploratory Data Analysis on Credit One Default Case](EDA-C5T2.ipynb)
-
-[Credit One Default Predictions (Classification)](Credit_One_Classification.ipynb) 
 
