@@ -34,7 +34,7 @@
 * [Smart Phone Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 * [Learner Report- Smart Phone Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 * [Final Report on Credit One Default Analysis](https://github.com/linzhaoinca/portfolio/blob/master/Final%20Report%20on%20Credit%20One%20Default%20Analysis.docx)
-* 
+* [Learner Report for Exploratory Data Analysis.docx]( 
 
 
 
