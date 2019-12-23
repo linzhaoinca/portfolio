@@ -30,8 +30,8 @@
 * [Lesson Learned Report for Predicting Customer Preference.docx](Lesson%20Learned%20Report%20for%20Predicting%20Customer%20Preference.docx----Final%20Web%20Version.docx)
 * [Visualize and Analyze Energy Data.pptx](Visualize%20and%20Analyze%20Energy%20Data.pptx)
 * [Domain Research and Exploratory Data Analysis.pptx](Domain%20Research%20and%20Exploratory%20Data%20Analysis.pptx)
-* Smart Phone Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 * [Evaluate Techniques for Wifi Locationing.docx](Evaluate%20Techniques%20for%20Wifi%20Locationing.docx)
+* [Smart Phone Sentiment Analysis Project Report.docx](Sentiment%20Analysis%20Project%20Report.docx)
 * [Learner Report- Smart Phone Sentiment Analysis.docx](Learner%20Report-%20Sentiment%20Analysis.docx)
 
 
